@@ -104,3 +104,9 @@
 
 
 }
+
+@media (max-width: 425px){
+    .contact_form {
+        padding: 75px 10px;
+    }
+}
