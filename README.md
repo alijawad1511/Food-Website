@@ -18,22 +18,22 @@ of their restaurant. This is built using pure HTML and CSS.
 
 ## 🖼️ Output Samples
 ### Sample No. 1
-![Sample 1](images/1.jpg)
+<img src="https://github.com/alijawad1511/Food-Website/blob/main/images/1.jpg" width="800" />
 
 ### Sample No. 2
-![Sample 2](images/2.jpg)
+<img src="https://github.com/alijawad1511/Food-Website/blob/main/images/2.jpg" width="800" />
 
 ### Sample No. 3
-![Sample 3](images/3.jpg)
+<img src="https://github.com/alijawad1511/Food-Website/blob/main/images/3.jpg" width="800" />
 
 ### Sample No. 4
-![Sample 4](images/4.jpg)
+<img src="https://github.com/alijawad1511/Food-Website/blob/main/images/4.jpg" width="800" />
 
 ### Sample No. 5
-![Sample 5](images/5.jpg)
+<img src="https://github.com/alijawad1511/Food-Website/blob/main/images/5.jpg" width="800" />
 
 ### Sample No. 6
-![Sample 6](images/6.jpg)
+<img src="https://github.com/alijawad1511/Food-Website/blob/main/images/6.jpg" width="800" />
 
 
 ## 📞 Contact me at:
